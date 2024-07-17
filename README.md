@@ -5,7 +5,7 @@ Repository ini berisi kode dan dokumentasi untuk analisis sentimen terhadap Pilk
 ## Deskripsi Proyek
 
 Proyek ini mencakup:
-- Pengumpulan data tweet
+- Pengumpulan data tweet dengan kata kunci "Pilkada" dan "Pilkada 2024"
 - Preprocessing data
 - Analisis sentimen menggunakan NRC Lexicon
 - Visualisasi hasil
